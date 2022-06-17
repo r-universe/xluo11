@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Rata"]
+	path = Rata
+	url = https://github.com/xluo11/rata
+	shallow = true
+	registered = true
+[submodule "Rirt"]
+	path = Rirt
+	url = https://github.com/xluo11/rirt
+	shallow = true
+	registered = true
+[submodule "Rmst"]
+	path = Rmst
+	url = https://github.com/xluo11/rmst
+	shallow = true
+	registered = true
+[submodule "xxIRT"]
+	path = xxIRT
+	url = https://github.com/xluo11/xxirt
+	shallow = true
+	registered = true

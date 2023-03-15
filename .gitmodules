@@ -8,11 +8,6 @@
 	url = https://github.com/xluo11/rata
 	shallow = true
 	registered = true
-[submodule "Rirt"]
-	path = Rirt
-	url = https://github.com/xluo11/rirt
-	shallow = true
-	registered = true
 [submodule "Rmst"]
 	path = Rmst
 	url = https://github.com/xluo11/rmst
@@ -21,5 +16,10 @@
 [submodule "xxIRT"]
 	path = xxIRT
 	url = https://github.com/xluo11/xxirt
+	shallow = true
+	registered = true
+[submodule "Rirt"]
+	path = Rirt
+	url = https://github.com/xluo11/rirt
 	shallow = true
 	registered = true

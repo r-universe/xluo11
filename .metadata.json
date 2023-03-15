@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
+    "package": "Rirt",
+    "oncran": true
+  },
+  {
     "package": "Rmst",
     "oncran": true
   },
   {
     "package": "xxIRT",
-    "oncran": true
-  },
-  {
-    "package": "Rirt",
     "oncran": true
   }
 ]

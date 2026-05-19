@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Rata"]
-	path = Rata
-	url = https://github.com/xluo11/rata
 [submodule "Rirt"]
 	path = Rirt
 	url = https://github.com/xluo11/rirt
-[submodule "Rmst"]
-	path = Rmst
-	url = https://github.com/xluo11/rmst
-[submodule "xxIRT"]
-	path = xxIRT
-	url = https://github.com/xluo11/xxirt
